@@ -1,5 +1,5 @@
 # comparing between to model
-in this project we are trying to make model for diagnosing breast cancer we will use two algorithms to find best model:Logistic-Regression and Naive_Bayes
+in this project we are trying to make model for diagnosing breast cancer we will use two algorithms to find best model:Logistic-Regression and RandomForestClassifier
 
  # Attribute Information:
 
